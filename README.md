@@ -35,7 +35,7 @@ your repo access and to practice PR'ing with your team *before* you start
 coding!
 
 - Joan Irianan: [GitHub](https://github.com/joanirianan) / [LinkedIn](https://www.linkedin.com/in/joan-irianan)
-- Teammate name #2: [GitHub](https://github.com/ghaccountname) / [LinkedIn](https://linkedin.com/in/liaccountname)
+- Abdullah Corduk: [GitHub](https://github.com/corduka) / [LinkedIn](https://www.linkedin.com/in/cordukabdullah/)
 
    ...
 - Teammate name #n: [GitHub](https://github.com/ghaccountname) / [LinkedIn](https://linkedin.com/in/liaccountname)
